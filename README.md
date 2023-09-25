@@ -25,7 +25,7 @@ Before you dive into this project, ensure you have the following prerequisites s
    `pip install -r requirements.txt`
 5. Run the Flask development server:
    `python app.py`
-6. Visit http://localhost:5000 in your web browser to access the API.
+6. Visit `http://localhost:5000` in your web browser to access the API.
 
 ## API Endpoints
 - GET /coffee-shops: Get a list of coffee shops with Wi-Fi information.
