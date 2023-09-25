@@ -3,13 +3,9 @@ This project showcases a fully functional REST API built from scratch using Flas
 
 ## Table of Contents
 - Prerequisites
-- Project Structure
 - Getting Started
 - API Endpoints
-- Authentication
-- Contributing
 - License
-- Acknowledgments
 
 ## Prerequisites
 Before you dive into this project, ensure you have the following prerequisites set up:
